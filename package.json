@@ -1,0 +1,28 @@
+{
+  "name": "json-to-type-predicate",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": "lib/cli.js",
+  "author": "meyer <github.com@meyer.fm>",
+  "license": "Apache-2.0",
+  "files": [
+    "lib/cli.js"
+  ],
+  "scripts": {
+    "build": "rimraf lib && tsc",
+    "test": "ts-node ./example/test.ts"
+  },
+  "dependencies": {
+    "ajv": "^6.10.2",
+    "chalk": "^2.4.2",
+    "prettier": "^1.18.2",
+    "quicktype-core": "^6.0.47",
+    "ts-node": "^8.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "*",
+    "@types/prettier": "^1.18.3",
+    "rimraf": "*",
+    "typescript": "*"
+  }
+}

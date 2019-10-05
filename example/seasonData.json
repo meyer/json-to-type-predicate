@@ -1,0 +1,137 @@
+[
+  {
+    "id": 608,
+    "url": "http://www.tvmaze.com/seasons/608/lost-season-1",
+    "number": 1,
+    "name": "",
+    "episodeOrder": 25,
+    "premiereDate": "2004-09-22",
+    "endDate": "2005-05-25",
+    "network": {
+      "id": 3,
+      "name": "ABC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": { "self": { "href": "http://api.tvmaze.com/seasons/608" } }
+  },
+  {
+    "id": 609,
+    "url": "http://www.tvmaze.com/seasons/609/lost-season-2",
+    "number": 2,
+    "name": "",
+    "episodeOrder": 24,
+    "premiereDate": "2005-09-21",
+    "endDate": "2006-05-24",
+    "network": {
+      "id": 3,
+      "name": "ABC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": { "self": { "href": "http://api.tvmaze.com/seasons/609" } }
+  },
+  {
+    "id": 610,
+    "url": "http://www.tvmaze.com/seasons/610/lost-season-3",
+    "number": 3,
+    "name": "",
+    "episodeOrder": 23,
+    "premiereDate": "2006-10-04",
+    "endDate": "2007-05-23",
+    "network": {
+      "id": 3,
+      "name": "ABC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": {
+      "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/72/180573.jpg",
+      "original": "http://static.tvmaze.com/uploads/images/original_untouched/72/180573.jpg"
+    },
+    "summary": null,
+    "_links": { "self": { "href": "http://api.tvmaze.com/seasons/610" } }
+  },
+  {
+    "id": 611,
+    "url": "http://www.tvmaze.com/seasons/611/lost-season-4",
+    "number": 4,
+    "name": "",
+    "episodeOrder": null,
+    "premiereDate": "2008-01-31",
+    "endDate": "2008-05-29",
+    "network": {
+      "id": 3,
+      "name": "ABC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": "",
+    "_links": { "self": { "href": "http://api.tvmaze.com/seasons/611" } }
+  },
+  {
+    "id": 612,
+    "url": "http://www.tvmaze.com/seasons/612/lost-season-5",
+    "number": 5,
+    "name": "",
+    "episodeOrder": null,
+    "premiereDate": "2009-01-21",
+    "endDate": "2009-05-13",
+    "network": {
+      "id": 3,
+      "name": "ABC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": "",
+    "_links": { "self": { "href": "http://api.tvmaze.com/seasons/612" } }
+  },
+  {
+    "id": 613,
+    "url": "http://www.tvmaze.com/seasons/613/lost-season-6",
+    "number": 6,
+    "name": "",
+    "episodeOrder": 18,
+    "premiereDate": "2010-02-02",
+    "endDate": "2010-05-23",
+    "network": {
+      "id": 3,
+      "name": "ABC",
+      "country": {
+        "name": "United States",
+        "code": "US",
+        "timezone": "America/New_York"
+      }
+    },
+    "webChannel": null,
+    "image": null,
+    "summary": null,
+    "_links": { "self": { "href": "http://api.tvmaze.com/seasons/613" } }
+  }
+]
